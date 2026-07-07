@@ -15,4 +15,11 @@ A responsive and modern internship landing page created using HTML and CSS.
 - HTML5
 - CSS3
 
+## Website result: 
+<p align="center">
+  <img src="result/pic1.png" width="500">
+</p>
+<p align="center">
+  <img src="result/pic2.png" width="500">
+</p>
  
