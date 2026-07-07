@@ -15,6 +15,4 @@ A responsive and modern internship landing page created using HTML and CSS.
 - HTML5
 - CSS3
 
-## Author
-
-Bilash Mallick
+ 
